@@ -1,2 +1,5 @@
 # letters
-Simple Golang project
+Simple Golang project  
+
+# example  
+![Снимок экрана (1229)](https://github.com/user-attachments/assets/ea93cd96-d765-40c8-8396-9d8712decf17)
