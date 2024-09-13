@@ -1,6 +1,5 @@
 # letters
 Simple Golang project  
-Aviable ABCDLMO letters  
 
 # example  
-![Снимок экрана (1229)](https://github.com/user-attachments/assets/ea93cd96-d765-40c8-8396-9d8712decf17)
+![Снимок экрана (1230)](https://github.com/user-attachments/assets/5a996f2a-0dc4-4f22-9b10-216e6bba42a4)
