@@ -46,8 +46,7 @@ func main() {
 
 	for i := 0; i < count_rows; i++ {
 		for _, symbol := range text {
-			s := string(symbol)
-			if value, exists := letters[s]; exists {
+			if value, exists := letters[string(symbol)]; exists {
 				fmt.Printf("%s ", value[i])
 			} else {
 				fmt.Printf("Symbol %c does not exist\n")
