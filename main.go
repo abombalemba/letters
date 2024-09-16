@@ -7,7 +7,6 @@ import (
 	"encoding/json"
 )
 
-
 const count_rows = 5;
 
 
@@ -49,7 +48,7 @@ func main() {
 			if value, exists := letters[string(symbol)]; exists {
 				fmt.Printf("%s ", value[i])
 			} else {
-				fmt.Printf("Symbol %c does not exist\n")
+				fmt.Printf("Symbol %c does not exist\n", symbol)
 			}
 		}
 		fmt.Println()
